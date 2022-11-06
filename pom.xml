@@ -8,11 +8,11 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.example.installments</groupId>
-	<artifactId>installments-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>installments-service</name>
-	<description>Project to calculate installments</description>
+	<groupId>br.com.example.payments</groupId>
+	<artifactId>payments-service</artifactId>
+	<version>1.0.0</version>
+	<name>payments-service</name>
+	<description>Project to calculate payments</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
